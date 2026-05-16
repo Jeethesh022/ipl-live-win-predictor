@@ -123,6 +123,8 @@ Output:
 To build a real-world cricket analytics system that predicts live IPL match outcomes using machine learning and historical match patterns.
 
 ---
+## Datasets
+Download the IPL dataset from Kaggle and place the CSV files inside the data/ folder.
 
 ## 📌 Future Improvements
 
